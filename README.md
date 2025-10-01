@@ -18,8 +18,8 @@ This study explores the development of machine learning (ML) models to recommend
 ## Repository Structure
 ```
 ├── data/              # Dataset documentation and access notes
-├── notebooks/         # Jupyter notebooks for data processing, model training, and analysis
-├── outputs/           # Results: model evaluation, optimization outputs, and ensemble results
+├── notebooks/         # Notebooks for data processing and feature engineering, model training, feature analysis, and optimization
+├── results/           # Model evaluation,  ensemble results, feature analysis, and optimization outputs
 ├── paper/             # Manuscript, figures, and supplementary material
 ├── README.md          # Project overview and usage instructions
 └── requirements.txt   # Python dependencies
