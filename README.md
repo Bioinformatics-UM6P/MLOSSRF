@@ -10,9 +10,9 @@ This study explores the development of machine learning (ML) models to recommend
 
 
 ## Highlights
-- Built a scalable machine learning and optimization pipeline on 7{,}180 Moroccan field trials, benchmarking over 20 models under random and temporal splits with model interpretability, and benchmarking 10 optimizers using top-performing machine learning models.
-- Achieved strong yield prediction accuracy on the random-split MAPE $\approx$ 5.2\%, with latitude, longitude, soil pH, organic matter, and crop type as dominant drivers.
-- Metaheuristic optimization (Simulated Annealing, Particle Swarm Optimization, Bayesian Optimization Evolutionary Hybrids) produced site-specific NPK recommendations, improving yields by up to 805\,kg/ha while enhancing nutrient-use efficiency under environmental penalties.
+- Built a scalable machine learning and optimization pipeline on 7,180 Moroccan field trials, benchmarking over 20 models under random and temporal splits with model interpretability, and benchmarking 10 optimizers using top-performing machine learning models.
+- Achieved strong yield prediction accuracy on the random-split MAPE ≈ 5.2\%, with location, nutrient features, and crop–soil interaction as dominant drivers.
+- Metaheuristic optimization (Simulated Annealing, Particle Swarm Optimization, and Bayesian–Evolutionary Hybrids) generated site-specific NPK recommendations, increasing yields by up to 805.20 kg/ha (≈23\% over the baseline) while simultaneously improving nutrient-use efficiency under environmental constraints.
 
 
 ## Repository Structure
