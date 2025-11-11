@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-Non--Commercial-lightgrey)  
 
-# Machine Learning-Based Optimization of Site-Specific Fertilizer Recommendation
+# Machine Learning-Based Optimization of Site-Specific NPK Fertilizer Recommendation
 
 This repository provides selected scripts and notebooks related to inference and testing of the proposed machine learning models. The full training pipeline and raw dataset are not included due to data-sharing restrictions. This release is intended for the demonstration and reproducibility of the model evaluation workflow using processed sample data.
 
@@ -34,7 +34,7 @@ Efficient fertilizer use is important for sustainable intensification, yet unifo
 If you use this work, please cite:
 
 > Ennaji, O., Belgaid, A., Vergütz, L., & El Allali, A.
-> *Machine Learning-Based Optimization of Site-Specific Fertilizer Recommendation*.
+> *Machine Learning-Based Optimization of Site-Specific NPK Fertilizer Recommendation*.
 > Mohammed VI Polytechnic University, Morocco. 2025.
 
 
