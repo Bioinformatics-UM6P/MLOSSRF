@@ -33,7 +33,7 @@ Efficient fertilizer use is important for sustainable intensification, yet unifo
 
 If you use this work, please cite:
 
-> Ennaji, O., Belgaid, A., Vergütz, L., & El Allali, A.
+> Ennaji, O., Belgaid, A., & El Allali, A.
 > *Machine Learning-Based Optimization of Site-Specific NPK Fertilizer Recommendation*.
 > Mohammed VI Polytechnic University, Morocco. 2025.
 
@@ -42,7 +42,6 @@ If you use this work, please cite:
 
 * **Oumnia Ennaji** – [oumnia.ennaji@um6p.ma](mailto:oumnia.ennaji@um6p.ma)
 * **Abdelghani Belgaid** – [abdelghani.belgaid@um6p.ma](mailto:abdelghani.belgaid@um6p.ma)
-* **Leonardus Vergütz** – [leonardus.vergutz@um6p.ma](mailto:leonardus.vergutz@um6p.ma)
 * **Achraf El Allali** (Corresponding Author) – [achraf.elallali@um6p.ma](mailto:achraf.elallali@um6p.ma)
 
 ## License
