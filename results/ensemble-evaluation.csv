@@ -1,0 +1,5 @@
+Model,Number of Models,Model Names (Random Test),Model Names (Temporal Test),R2 Random Test,MAE Random Test,sMAPE Random Test,RMSE Random Test,R2 Temporal Test,MAE Temporal Test,sMAPE Temporal Test,RMSE Temporal Test
+Ensemble 2,2,"ExtraTrees, KNN","ExtraTrees, KNN",0.882187106,265.101448,0.09396070115,492.3422163,-0.1015864225,800.5129328,0.2034804733,971.7748883
+Ensemble 3,3,"ExtraTrees, KNN, XGBoost 5000","ExtraTrees, KNN, XGBoost 5000",0.9190593045,220.1999652,0.07960401905,408.0882875,-0.1235830047,806.2679162,0.203666269,981.4291787
+Ensemble 4,4,"ExtraTrees, KNN, XGBoost 5000, Stacking LR","ExtraTrees, KNN, XGBoost 5000, Stacking XGBRegressor",0.9330643255,199.0087525,0.07249615993,371.1072905,-0.1570631139,823.0651891,0.207026529,995.9439768
+Ensemble 5,5,"ExtraTrees, KNN, XGBoost 5000, Stacking LR, LightGBM","ExtraTrees, KNN, XGBoost 5000, Stacking XGBRegressor, Stacking RandomForestRegressor",0.9387560798,189.8017953,0.06934250555,354.9785861,-0.205191689,845.3249053,0.2119211461,1016.446323
