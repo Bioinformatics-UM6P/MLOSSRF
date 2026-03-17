@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated article below."
+title: "MLOSSRF"
+version: "1.0.0"
+type: "software"
+authors:
+  - family-names: "Ennaji"
+    given-names: "Oumnia"
+     orcid: "https://orcid.org/0009-0009-8216-2962"
+  - family-names: "Belgaid"
+    given-names: "Abdelghani"
+    orcid: "https://orcid.org/0000-0002-1581-3958"
+  - family-names: "El Allali"
+    given-names: "Achraf"
+    orcid: "https://orcid.org/0000-0002-4561-2161"
+repository-code: "https://github.com/Bioinformatics-UM6P/MLOSSRF"
+url: "https://github.com/Bioinformatics-UM6P/MLOSSRF"
+license: "CC-BY-4.0"
+
+preferred-citation:
+  type: "article"
+  authors:
+    - family-names: "Ennaji"
+      given-names: "Oumnia"
+      orcid: "https://orcid.org/0009-0009-8216-2962"
+    - family-names: "Belgaid"
+      given-names: "Abdelghani"
+      orcid: "https://orcid.org/0000-0002-1581-3958"
+    - family-names: "El Allali"
+      given-names: "Achraf"
+      orcid: "https://orcid.org/0000-0002-4561-2161"
+  title: "Machine learning–based optimization of site-specific NPK fertilizer recommendation"
+  journal: "Smart Agricultural Technology"
+  year: 2026
+  volume: 13
+  pages: "101823"
+  doi: "10.1016/j.atech.2026.101823"
+  url: "https://doi.org/10.1016/j.atech.2026.101823"
